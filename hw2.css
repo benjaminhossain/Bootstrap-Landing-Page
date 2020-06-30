@@ -1,0 +1,40 @@
+body{
+  background:
+    linear-gradient(
+      rgba(255, 255, 255, 0.75),
+      rgba(255, 255, 255, 0.75)
+    ),
+    url("https://trello-backgrounds.s3.amazonaws.com/559ddf21aa988af0e583d451/2562x1440/2806d91651310fb7aefc3aa4229db9bd/astros_background.jpg") repeat;
+  background-size: cover;
+}
+
+.midkotha{
+  margin-top:100px;
+}
+
+.mutedkotha{
+  margin: 30px 100px 60px 100px;
+  font-family: 'Raleway', serif;
+  word-spacing: 3px;
+  letter-spacing: 1px;
+}
+
+.brand-naam{
+  font-size:25px;
+  letter-spacing:2px;
+  margin-left:10px;
+  font-family: 'Poppins', serif;
+}
+
+li{
+  margin-right:10px;
+}
+
+.habijabi{
+  margin-top:20px;
+  font-size:14px;
+}
+
+.baksho{
+  font-family: 'Quicksand', serif;
+}
